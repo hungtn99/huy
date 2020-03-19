@@ -1,6 +1,0 @@
-class huyshit{
-   public static void main((String[] argv){
-  	System.out.print("Huy eat shit");
-   //hung
-  }
-}
